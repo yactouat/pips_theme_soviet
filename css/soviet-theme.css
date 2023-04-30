@@ -8,3 +8,11 @@
 .theme-bg {
   background-color: var(--primary);
 }
+
+.theme-lsecondary {
+  color: var(--lsecondary);
+}
+
+.theme-secondary {
+  color: var(--secondary);
+}
