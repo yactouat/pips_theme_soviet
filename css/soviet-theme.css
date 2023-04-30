@@ -13,6 +13,12 @@
   color: var(--lsecondary);
 }
 
-.theme-secondary {
-  color: var(--secondary);
+/* dark theme */
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  .theme-dsecondary {
+    color: var(--secondary);
+  }
 }
