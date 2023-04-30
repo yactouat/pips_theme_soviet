@@ -1,8 +1,8 @@
-# PIPS Socialist Realist Theme
+# PIPS Soviet Theme
 
 <!-- TOC -->
 
-- [PIPS Socialist Realist Theme](#pips-socialist-realist-theme)
+- [PIPS Soviet Theme](#pips-soviet-theme)
   - [What is this ?](#what-is-this-)
   - [Color Palette](#color-palette)
     - [Theme](#theme)
@@ -69,7 +69,7 @@ Red and yellow symbolize the revolution and socialism. Black and white are often
 
 ## Images
 
-You'll find the images in the `images` folder. They can be re-used across my apps to convey a consistent identity. They are available via GitHub's CDN under `https://cdn.jsdelivr.net/gh/yactouat/pips_theme_socialist-realism@master/images/`.
+You'll find the images in the `images` folder. They can be re-used across my apps to convey a consistent identity. They are available via GitHub's CDN under `https://cdn.jsdelivr.net/gh/yactouat/pips_theme_soviet@master/images/`.
 
 ## Possible Fonts
 
