@@ -1,0 +1,10 @@
+:root {
+  --lprimary: #0000ff;
+  --lsecondary: #ff0000;
+  --primary: #ff0000;
+  --secondary: #ffff00;
+}
+
+.theme-bg {
+  background-color: var(--primary);
+}

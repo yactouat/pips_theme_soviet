@@ -53,16 +53,20 @@ Red and yellow symbolize the revolution and socialism. Black and white are often
 
 #### Dark
 
-- alt-neutral (#808080)
-- primary (#FF0000)
+- altneutral (#808080)
+- bg (#000000)
 - neutral (#FFFFFF)
+- primary (#FF0000)
 - secondary (#FFFF00)
+
+Theme is available at `https://cdn.jsdelivr.net/gh/yactouat/pips_theme_socialist-realism@master/css/soviet-theme.css`.
 
 #### Light
 
-- alt-neutral (#808080)
-- primary (#0000ff)
+- altneutral (#808080)
+- bg (#FFFFFF)
 - neutral (#000000)
+- primary (#0000ff)
 - secondary (#FF0000)
 
 ## Images
